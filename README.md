@@ -41,7 +41,7 @@ git clone https://github.com/rhenryw/UV-Static-2.0
 
 Disclaimer
 ---
-UV is made by [Titanium Network](https://github.com/titaniumnetwork-dev/Ultraviolet), and we have no part in developing it. The backend was made by [Mercury Workshop](https://mercurywork.shop/).
+UV is made by [Titanium Network](https://github.com/titaniumnetwork-dev/Ultraviolet), and we have no part in developing it. The backend was made by [Mercury Workshop](https://mercurywork.shop/). Frontend largely by [@technonyte00](https://github.com/technonyte00)
 
 
 Backend: [deployWISP](https://github.com/rhenryw/deployWisp)
